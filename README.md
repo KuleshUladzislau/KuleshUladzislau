@@ -1,12 +1,12 @@
 # Hello there! 👋
 
-My name is Ilya Grinyak, and I'm a Frontend developer. Welcome to my GitHub profile!
+My name is Uladzislau Kulesh, and I'm a Frontend developer. Welcome to my GitHub profile!
 
 ## About Me
 
 * 🌍  I'm based in Minsk
-* 🖥️  See my portfolio at comming soon...
-* ✉️  You can contact me at [ilagrinak@gmail.com](mailto:ilagrinak@gmail.com)
+* 🖥️  See my portfolio []
+* ✉️  You can contact me at [kulesh_uladzislau@mail.ru](mailto:kulesh_uladzislau@mail.ru)
 * 🤝  I'm open to collaborating on interesting projects
 <hr>
 
