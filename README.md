@@ -5,7 +5,7 @@ My name is Uladzislau Kulesh, and I'm a Frontend developer. Welcome to my GitHub
 ## About Me
 
 * 🌍  I'm based in Minsk
-* 🖥️  See my portfolio []
+* 🖥️  See my portfolio [https://kuleshuladzislau.github.io/portfolio/](protfolioto:https://kuleshuladzislau.github.io/portfolio/)
 * ✉️  You can contact me at [kulesh_uladzislau@mail.ru](mailto:kulesh_uladzislau@mail.ru)
 * 🤝  I'm open to collaborating on interesting projects
 <hr>
